@@ -1,0 +1,22 @@
+.card-img-cstm {
+  height: 15rem !important;
+  width: auto !important;
+}
+
+@media screen and (max-width: 780px) {
+  .card-img-cstm {
+    height: 10rem !important;
+    width: auto !important;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .card-img-cstm {
+    height: 8rem !important;
+    width: auto !important;
+  }
+}
+
+.card:hover {
+  box-shadow: 0 0 20px #0099cc;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "mario",
+    "isClicked": false,
+    "image": "https://i.imgur.com/OZfVm7l.jpg"
+  },
+  {
+    "id": 2,
+    "name": "donkeyKong",
+    "isClicked": false,
+    "image": "https://i.imgur.com/1Iz5XD2.png"
+  },
+  {
+    "id": 3,
+    "name": "link",
+    "isClicked": false,
+    "image": "https://i.imgur.com/F6jUcuh.png"
+  },
+  {
+    "id": 4,
+    "name": "yoshi",
+    "isClicked": false,
+    "image": "https://i.imgur.com/xheleUJ.png"
+  },
+  {
+    "id": 5,
+    "name": "kirby",
+    "isClicked": false,
+    "image": "https://i.imgur.com/Rfrd388.png"
+  },
+  {
+    "id": 6,
+    "name": "luigi",
+    "isClicked": false,
+    "image": "https://i.imgur.com/iq1ntAI.png"
+  },
+  {
+    "id": 7,
+    "name": "peach",
+    "isClicked": false,
+    "image": "https://i.imgur.com/Nk7MnT2.png"
+  },
+  {
+    "id": 8,
+    "name": "bowser",
+    "isClicked": false,
+    "image": "https://i.imgur.com/jHxumTW.png"
+  },
+  {
+    "id": 9,
+    "name": "wario",
+    "isClicked": false,
+    "image": "https://i.imgur.com/0dvyIy7.png"
+  },
+  {
+    "id": 10,
+    "name": "samus",
+    "isClicked": false,
+    "image": "https://i.imgur.com/F7tINQJ.png"
+  },
+  {
+    "id": 11,
+    "name": "megaman",
+    "isClicked": false,
+    "image": "https://i.imgur.com/QchcLNC.png"
+  },
+  {
+    "id": 12,
+    "name": "rosilina",
+    "isClicked": false,
+    "image": "https://i.imgur.com/nsIcXwE.png"
+  }
+]
