@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clickygametwo/static/css/main.d7c0789a.chunk.css",
+    "main.js": "/clickygametwo/static/js/main.4b191dc5.chunk.js",
+    "main.js.map": "/clickygametwo/static/js/main.4b191dc5.chunk.js.map",
+    "runtime-main.js": "/clickygametwo/static/js/runtime-main.057bfafe.js",
+    "runtime-main.js.map": "/clickygametwo/static/js/runtime-main.057bfafe.js.map",
+    "static/js/2.a25d5e88.chunk.js": "/clickygametwo/static/js/2.a25d5e88.chunk.js",
+    "static/js/2.a25d5e88.chunk.js.map": "/clickygametwo/static/js/2.a25d5e88.chunk.js.map",
+    "index.html": "/clickygametwo/index.html",
+    "precache-manifest.fc409ffea7b08499b97851d7ff51e1ed.js": "/clickygametwo/precache-manifest.fc409ffea7b08499b97851d7ff51e1ed.js",
+    "service-worker.js": "/clickygametwo/service-worker.js",
+    "static/css/main.d7c0789a.chunk.css.map": "/clickygametwo/static/css/main.d7c0789a.chunk.css.map",
+    "static/js/2.a25d5e88.chunk.js.LICENSE.txt": "/clickygametwo/static/js/2.a25d5e88.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/clickygametwo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.057bfafe.js",
+    "static/js/2.a25d5e88.chunk.js",
+    "static/css/main.d7c0789a.chunk.css",
+    "static/js/main.4b191dc5.chunk.js"
+  ]
+}
